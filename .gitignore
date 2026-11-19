@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+/logging.txt
+/Email_Unable_to_Attend_Meeting_Vuong.txt
